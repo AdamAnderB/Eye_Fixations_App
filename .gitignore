@@ -14,3 +14,5 @@ rmd_chunk_converter.R
 .Rapp.history
 AoW.Rproj
 AoW.gitignore.txt
+shiny_binning_data.csv
+*.csv
