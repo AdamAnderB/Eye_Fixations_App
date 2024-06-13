@@ -8,7 +8,7 @@ This Shiny application is designed to assist researchers in understanding the dy
 
 ## Features
 - **Dynamic Visualization**: Allows users to interactively adjust data removal thresholds and observe their effects on eye fixation distribution.
-- **Time Point Analysis**: Focus on four critical time points: beginning of the sentence, verb onset, object onset, and selection of visual stimuli.
+- **Time Point**: Focus on four critical time points: beginning of the sentence, verb onset, object onset, and selection of visual stimuli.
 
 ## Usage
 1. Open the app using the provided URL: [Eye Fixations Shiny App](https://adam-a-bramlett.shinyapps.io/Eye_Fixations_App/)
