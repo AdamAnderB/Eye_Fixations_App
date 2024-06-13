@@ -4,7 +4,7 @@
 - Bramlett, A. A. & Wiener, S. (2024). The Art of Wrangling: Working with Web-based Eye-tracking Data in Language Research. *Linguistic Approaches to Bilingualism*.
 
 ## Overview
-This Shiny application is designed to assist researchers in understanding the dynamics of eye fixations in the context of web-based visual world paradigm (VWP) experiments. The app provides a dynamic visualization tool for exploring how different data removal thresholds impact the distribution of eye fixations at crucial time points within the sentence structure.
+This Shiny application is designed to assist researchers in understanding the dynamics of eye fixations in the context of web-based visual world paradigm (VWP) experiments. The app provides a dynamic visualization tool for exploring how different data removal thresholds impact the distribution of eye fixations at crucial time points within the sentence structure. See [signal detection theory](https://en.wikipedia.org/wiki/Detection_theory)
 
 ## Features
 - **Dynamic Visualization**: Allows users to interactively adjust data removal thresholds and observe their effects on eye fixation distribution.
