@@ -1,0 +1,13 @@
+name: Eye_Fixations_App
+title: Eye_Fixations_App
+username:
+account: keep-it-blind
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10622671
+bundleId: 7967077
+url: https://keep-it-blind.shinyapps.io/Eye_Fixations_App/
+when: 1700888461.36924
+lastSyncTime: 1700888461.36924
+asMultiple: FALSE
+asStatic: FALSE
